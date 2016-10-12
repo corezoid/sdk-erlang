@@ -2,11 +2,12 @@
 
 ## Usage
 
-1. Enter to website https://corezoid.com
-2. Go to Users tab
+1. Go to then website https://corezoid.com
+2. Click on the Users tab
 3. Create api user login
 4. Take login and secret_key
-5. Create new conv is Process tab
+5. Click on the Process tab
+5. Create new process
 6. Take conv_id
 7. Make erlang code to put new task in that process
 
