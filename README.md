@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Go to then website https://corezoid.com
+1. Go to the website https://corezoid.com
 2. Click on the Users tab
 3. Create api user login
 4. Take login and secret_key
